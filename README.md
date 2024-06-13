@@ -12,20 +12,20 @@
 
 <h3>Навыки</h3>
 
-<table>
+<table border="0">
            <tr>
                       <td>React</td>
-                      <td>CSS</td>
-                      <td></td>
-           </tr>
-           <tr>
                       <td>JavaScript</td>
-                      <td>HTML</td>
-                      <td>Git</td>
+                      <td>TypeScript</td>
            </tr>
            <tr>
-                      <td>TypeScript</td>
+                      <td>CSS</td>
+                      <td>HTML</td>
                       <td>Webpack</td>
+           </tr>
+           <tr>
+                      <td></td>
+                      <td>Git</td>
                       <td></td>
            </tr>
 </table>

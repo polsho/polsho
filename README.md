@@ -12,9 +12,23 @@
 
 <h3>Навыки</h3>
 
-- React    - JavaScript      - TypeScript
-- CSS      - HTML            - Webpack
-           - Git
+<table>
+           <tr>
+                      <td>React</td>
+                      <td>CSS</td>
+                      <td></td>
+           </tr>
+           <tr>
+                      <td>JavaScript</td>
+                      <td>HTML</td>
+                      <td>Git</td>
+           </tr>
+           <tr>
+                      <td>TypeScript</td>
+                      <td>Webpack</td>
+                      <td></td>
+           </tr>
+</table>
 
 ---------------------------------------------------------------------------------------
 

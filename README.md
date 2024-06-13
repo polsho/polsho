@@ -12,9 +12,7 @@
 
 <h3>Навыки</h3>
 
-| React | JavaScript | TypeScript |
-| CSS | HTML | Webpack |
-| | Git | |
+| React | JavaScript | TypeScript | CSS | HTML | Webpack | Git |
 
 ---------------------------------------------------------------------------------------
 

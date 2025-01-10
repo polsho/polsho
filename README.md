@@ -18,5 +18,5 @@
 
 <h3>Мои контакты</h3>
 
-- 📧 wbpshmeleva@gmail.com
+- 📧 web-dev-shmeleva@yandex.ru
 - <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" width="20" alt="telegram"> [telegram](https://t.me/Polly_Shmeleva)
